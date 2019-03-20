@@ -1,6 +1,7 @@
 # backup files
 *~
 *.ckpt
+.ipynb_checkpoints
 
 # Pycharm files
 .idea
